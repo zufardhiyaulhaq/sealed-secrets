@@ -8,6 +8,7 @@ resources: {}
 nodeSelector: {}
 tolerations: []
 affinity: {}
+commandArgs: []
 
 controller:
   # controller.create: `true` if Sealed Secrets controller should be created
